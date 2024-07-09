@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "CustomSymbolsForOpenInduction")(type "KiCad")(uri "${KIPRJMOD}/CustomSymbolsForOpenInduction.kicad_sym")(options "")(descr ""))
+)
